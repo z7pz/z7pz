@@ -3,6 +3,8 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 💭 &nbsp; Diving deeper into the realm of web development, data science.
+- 🏠 &nbsp; Living in IRAQ - BAGHDAD.
+- 👨‍🎓 &nbsp; I am student in Marrif school
 - 🍭 &nbsp; Gardening, working out and fragrances as hobbies.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
@@ -19,6 +21,12 @@
 - 🎨 &nbsp;
  <img src="https://img.shields.io/badge/adobe%20photoshop%20-%2331A8FF.svg?&style=for-the-badge&logo=adobe%20photoshop&logoColor=white"/> <img src="https://img.shields.io/badge/figma%20-%23F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white"/>  <img src="https://img.shields.io/badge/adobe%20xd%20-%23FF26BE.svg?&style=for-the-badge&logo=adobe%20xd&logoColor=white"/>
 
+
+<br/>
+<h3> 🧾 My achievements</h3>
+
+-  &nbsp; Certified bot developer in discord.
+-  &nbsp; 2nd and 3rd place in the 3rd national Robotics championship in Iraq.
 
 <br/>
 
