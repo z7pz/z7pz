@@ -31,8 +31,8 @@
 <br/>
 
 <a href="https://github.com/z7pz">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=z7pz&theme=buefy&show_icons=true" />
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=z7pz&theme=buefy&layout=compact" />
+  <img height="200em" src="https://awesome-github-stats.azurewebsites.net/user-stats/z7pz?cardType=level&theme=dark" />
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=z7pz&theme=dark&layout=compact" />
 </a>
 
 <br/>
