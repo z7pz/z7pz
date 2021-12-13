@@ -40,7 +40,5 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://smash.codestation.com/"><img alt="Website" src="https://img.shields.io/badge/Website-smash.codestation.com-green?style=flat-square&logo=google-chrome"></a>
-<a href="https://www.instagram.com/z7p.z/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-z7pz-red?style=flat-square&logo=instagram"></a>
-<a href="https://discord.gg/kkT5UVcSHT"><img alt="Discord" src="https://img.shields.io/badge/Discord-Codestation-blue?style=flat-square&logo=discord"></a>
+you can't
 </p>
