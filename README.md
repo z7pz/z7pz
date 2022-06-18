@@ -14,15 +14,15 @@
 
 - 💭 &nbsp; Diving deeper into the realm of **Web Development, Networking**
 - 🏠 &nbsp; Living in **IRAQ**
-- 👨‍🎓 &nbsp; I am student in Marrif school
+- 👨‍🎓 &nbsp; I am student in **Marrif** school
 - ❗❗ &nbsp;**`Y'ALL DONT KNOW ME WELL`**
 
 
 <br/>
 <h3> 🧾 My achievements</h3>
 
--  👏 &nbsp; Verified bot developer in discord.
-- 🤖 &nbsp; 2nd and 3rd place in the 3rd national Robotics championship in Iraq.
+-  👏 &nbsp; Verified bot developer in **Discord**.
+- 🤖 &nbsp; `2nd` and `3rd` place in the **3rd national Robotics championship** in Iraq.
 
 <br/>
 <h2 align="center">
