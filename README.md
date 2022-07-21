@@ -31,6 +31,8 @@
 <a href="https://github.com/z7pz">
   <img height="160em" src="https://awesome-github-stats.azurewebsites.net/user-stats/z7pz?cardType=level&theme=dark" /><img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=z7pz&theme=dark&layout=compact" />
 </a>
+  <img height="240em" src="https://metrics.lecoq.io/z7pz?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&followup=1&base.indepth=false&base.hireable=false&followup.sections=repositories&followup.indepth=false&followup.archived=true&config.timezone=Asia%2FBaghdad" />
+
 </h2>
 <br/>
 
