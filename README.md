@@ -9,6 +9,7 @@
 [![Twitter: Mr.Kasper](https://img.shields.io/twitter/follow/abo_alsob7?style=social)](https://twitter.com/abo_alsob7)
 [![GitHub Mr.Kasper](https://img.shields.io/github/followers/z7pz?label=follow&style=social)](https://github.com/z7pz)
 
+  <img height="160em" src="https://metrics.lecoq.io/z7pz?template=classic&people=1&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&base.indepth=false&base.hireable=false&people.limit=24&people.identicons=false&people.identicons.hide=false&people.size=28&people.types=followers%2C%20following&people.shuffle=false&config.timezone=Asia%2FBaghdad" />
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
