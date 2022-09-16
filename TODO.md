@@ -28,8 +28,7 @@
 
 ## Frontend - https://roadmap.sh/frontend
 - ~~Learn css bem~~
-- Learn styled components
-- Learn tailwind css
+- ~~Learn styled components~~
 - Learn how to use JEST (testing your Apps)
 
 ## Mobile Applications
