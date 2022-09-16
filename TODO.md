@@ -27,7 +27,7 @@
 - Learn electron
 
 ## Frontend - https://roadmap.sh/frontend
-- Learn css bem
+- ~~Learn css bem~~
 - Learn styled components
 - Learn tailwind css
 - Learn how to use JEST (testing your Apps)
