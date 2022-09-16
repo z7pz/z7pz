@@ -44,6 +44,7 @@
 - Learn N+1 problem
 - Sharding strategies
 - scaling 
+### or just use a new framework named **SurrealDB**
 
 ## Backend - testing
 - learn Intregation Testing
