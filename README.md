@@ -38,3 +38,6 @@
 discord: Mr.Kasper#4200
 
 email: sdfygamer@gmail.com
+
+insta: z7p.z
+
