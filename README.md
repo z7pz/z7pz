@@ -33,7 +33,7 @@
 <br/>
 
 ## Contact me
-discord: Mr.Kasper#4200
+discord: Ahmed Al-Karidi#4200
 
 email: ahmedfalihalkraidi@gmail.com
 
