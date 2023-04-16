@@ -22,7 +22,7 @@
 
 -  👏 &nbsp; Verified bot developer in **Discord**.
 - 🤖 &nbsp; `2nd` and `3rd` place in the **3rd national Robotics championship** in Iraq.
-- 🎋 &nbsp; first place at **Coolest Projects Iraq**, certified by RasperyPI
+- 🎋 &nbsp; First place at **Coolest Projects Iraq**, certified by RasperyPI
 <br/>
 <h2 align="center">
 
