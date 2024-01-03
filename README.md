@@ -31,7 +31,7 @@
 <br/>
 
 ## Contact me
-discord: Ahmed Al-Karidi#4200
+discord: 2pz
 
 email: ahmedfalihalkraidi@gmail.com
 
