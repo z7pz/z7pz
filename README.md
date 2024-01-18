@@ -21,11 +21,14 @@
 -  👏 &nbsp; Verified bot developer in **Discord**.
 - 🤖 &nbsp; `2nd` and `3rd` place in the **3rd national Robotics championship** in Iraq.
 - 🎋 &nbsp; First place at **Coolest Projects Iraq**, certified by RasperyPI
-- 🐱‍👤 &nbsp; Winner at the first **Hurry App** Hackathon
+- 🐱‍👤 &nbsp; Winner at the first **Hurry App** Hackathon by `Aswar Academy` and `HUB 200` (as UI Designer/Frontend Developer)
 <br/>
 </details>
 <details>
-
+<summary><h3>✨ Certificates</h3></summary>
+  
+![HurryApp](assets/image.png)
+</details>
 <h2 align="center">
 
 <a href="https://github.com/z7pz">
