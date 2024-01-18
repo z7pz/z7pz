@@ -7,7 +7,7 @@
 
 [![Twitter: Mr.Kasper](https://img.shields.io/twitter/follow/abo_alsob7?style=social)](https://twitter.com/abo_alsob7)
 [![GitHub Mr.Kasper](https://img.shields.io/github/followers/z7pz?label=follow&style=social)](https://github.com/z7pz)
-![Codewar](https://www.codewars.com/users/sdfygamer/badges/micro)
+<a href="https://www.codewars.com/users/sdfygamer">![Codewar](https://www.codewars.com/users/sdfygamer/badges/micro)</a>
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 💭 &nbsp; Diving deeper into the realm of **Web Development, Networking and Robots**
