@@ -8,38 +8,38 @@
 - learn vim
 - harvard certificate  
 ## programming laguages
-- Learn rust
+- Learn rust ✅
 - Learn GoLang
 - Learn carbon language
 - Learn More about python (master it)
 
 ## Main projects
-- work on Itchat frotnend
-- work on Itchat design 
-- work on Albustan frotnend
-- work on Albustan design
+- work on Itchat frotnend ✅
+- work on Itchat design ✅
+- work on Albustan frotnend ✅
+- work on Albustan design ✅
 
 ## Side projects
-- finish dd-bot dashboard
+- finish dd-bot dashboard ✅
 - make a protfolio
 
 ## Frameworks
-- Learn electron
+- Learn electron ✅
 
-## Frontend - https://roadmap.sh/frontend
+## Frontend - https://roadmap.sh/frontend ✅
 - ~~Learn css bem~~
 - ~~Learn styled components~~
-- Learn how to use JEST (testing your Apps)
+- ~~Learn how to use JEST (testing your Apps)~~
 
 ## Mobile Applications
 - Learn react-native
 - Learn Flutter
 
 ## Backend - security
-- Learn SOAP (Simple Object Access Protocol)
+- Learn SOAP (Simple Object Access Protocol) ✅
 
 ## Backend - database
-- Learn SQL database (postgress or MySql)
+- Learn SQL database (postgress or MySql) ✅ (I choose postgres)
 - Learn cassandra (NoSQL)
 - Learn N+1 problem
 - Sharding strategies
@@ -52,4 +52,4 @@
 - Learn Functional testing
 
 ## Backend - caching
-- Learn about CDN
+- Learn about CDN ✅
