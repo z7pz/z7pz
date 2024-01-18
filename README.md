@@ -2,7 +2,6 @@
 <pre><i>Hey there! I'm Ahmed.😀</i></pre>
 </h2>
 
-### وإني وإن كنْتُ الأخيرَ زمانُهُ ... لآتٍ بما لم تَسْتَطِعْهُ الأوائلُ
 
 <img align='right' src="https://avatars.githubusercontent.com/u/63007978?s=400&u=90f37df623f011d491e054565ff0272fa90b46c5&v=4" style="border-radius: 100%" width="230">
 
@@ -16,12 +15,17 @@
 - 👨‍🎓 &nbsp; I'm student at **Marrif** school
 
 <br/>
-<h3> 🧾 My achievements</h3>
+<details>
+<summary><h3> 🧾 My achievements</h3></summary>
 
 -  👏 &nbsp; Verified bot developer in **Discord**.
 - 🤖 &nbsp; `2nd` and `3rd` place in the **3rd national Robotics championship** in Iraq.
 - 🎋 &nbsp; First place at **Coolest Projects Iraq**, certified by RasperyPI
+- 🐱‍👤 &nbsp; Winner at the first **Hurry App** Hackathon
 <br/>
+</details>
+<details>
+
 <h2 align="center">
 
 <a href="https://github.com/z7pz">
@@ -30,11 +34,12 @@
 </h2>
 <br/>
 
+<h1 align="center"> وإني وإن كنْتُ الأخيرَ زمانُهُ ... لآتٍ بما لم تَسْتَطِعْهُ الأوائلُ</h1>
+
 ## Contact me
 discord: 2pz
 
 email: ahmedfalihalkraidi@gmail.com
 
 insta: z7p.z
-
 
