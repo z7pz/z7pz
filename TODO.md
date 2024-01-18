@@ -1,3 +1,13 @@
+## MVP
+- [ ] Master Rust (I hope :) )
+  - Topics
+    -  Smart pointers
+    -  Rust on production
+  - Projects
+    - [ ] aim to create an app with caching
+    - [ ] create a websocket app you can merge with above
+    - [ ] using some `Unsafe rust` because it looks cool (by creating a kernal)
+
 ## real life languages
 - learn kurdish
 - learn turkish
