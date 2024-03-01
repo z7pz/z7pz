@@ -16,7 +16,7 @@
 
 <br/>
 <details>
-<summary><h3> 🧾 My achievements</h3></summary>
+<summary>🧾 My achievements</summary>
 
 -  👏 &nbsp; Verified bot developer in **Discord**.
 - 🤖 &nbsp; `2nd` and `3rd` place in the **3rd national Robotics championship** in Iraq.
@@ -25,7 +25,7 @@
 <br/>
 </details>
 <details>
-<summary><h3>✨ Certificates</h3></summary>
+<summary>✨ Certificates</summary>
   
 ![HurryApp](assets/image.png)
 </details>
