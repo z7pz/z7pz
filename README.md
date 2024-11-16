@@ -12,7 +12,7 @@
 
 - 💭 &nbsp; Diving deeper into the realm of **Web Development, Networking and Robots**
 - 🏠 &nbsp; Living in **IRAQ**
-- 👨‍🎓 &nbsp; I'm student at **Marrif** school
+- 👨‍🎓 &nbsp; I'm student at **Maarif** school
 
 <br/>
 <details>
