@@ -48,4 +48,6 @@ discord: 2pz
 email: ahmedfalihalkraidi@gmail.com
 
 insta: z7p.z
-
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&section=footer&textBg=false&fontSize=60&animation=fadeIn&stroke=fff&strokeWidth=0.5" />
+</div>
