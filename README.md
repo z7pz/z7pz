@@ -1,3 +1,6 @@
+<h1 align="center">
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Ahmed%20Falih%20Alkraidi&section=header&textBg=false&fontSize=60" />
+</h1>
 <h2 align="center">
 <pre><i>Hey there! I'm Ahmed.😀</i></pre>
 </h2>
